@@ -1,0 +1,24 @@
+* {
+    box-sizing: border-box;
+    margin: 15px 0;
+}
+
+.row {
+    justify-content: center;
+}
+
+.forms {
+    text-align: center;
+    margin-top: 30px;
+}
+
+input {
+    width: 250px;
+    height: 35px;
+    text-align: center;
+    border: 1px solid cornflowerblue;
+}
+
+.invalid {
+    border: 1px solid red;
+}
